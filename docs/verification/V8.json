@@ -1,0 +1,226 @@
+{
+  "steps": 7500,
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "passed": 8,
+  "results": [
+    {
+      "seed": 0,
+      "passed": true,
+      "birth_sizes": [
+        77,
+        97
+      ],
+      "living_cells": 484,
+      "colonies": 3,
+      "physical_components": [
+        211,
+        179,
+        87,
+        2,
+        5
+      ],
+      "small_fragment_fraction": 0.014462809917355372,
+      "tiny_fragment_fraction": 0.014462809917355372,
+      "balance_error": 9.595169103704393e-10,
+      "seconds": 8.026494899997488
+    },
+    {
+      "seed": 1,
+      "passed": true,
+      "birth_sizes": [
+        136,
+        50
+      ],
+      "living_cells": 323,
+      "colonies": 3,
+      "physical_components": [
+        232,
+        52,
+        20,
+        19
+      ],
+      "small_fragment_fraction": 0.12074303405572756,
+      "tiny_fragment_fraction": 0.0,
+      "balance_error": 9.027800729199953e-10,
+      "seconds": 5.922167000011541
+    },
+    {
+      "seed": 2,
+      "passed": false,
+      "birth_sizes": [],
+      "living_cells": 319,
+      "colonies": 1,
+      "physical_components": [
+        319
+      ],
+      "small_fragment_fraction": 0,
+      "tiny_fragment_fraction": 0.0,
+      "balance_error": 1.8535502022132277e-09,
+      "seconds": 6.654108599992469
+    },
+    {
+      "seed": 3,
+      "passed": true,
+      "birth_sizes": [
+        109,
+        130
+      ],
+      "living_cells": 393,
+      "colonies": 3,
+      "physical_components": [
+        229,
+        145,
+        19
+      ],
+      "small_fragment_fraction": 0.04834605597964377,
+      "tiny_fragment_fraction": 0.0,
+      "balance_error": 1.5099814731911465e-09,
+      "seconds": 6.930897799989907
+    },
+    {
+      "seed": 4,
+      "passed": true,
+      "birth_sizes": [
+        97,
+        48,
+        48
+      ],
+      "living_cells": 429,
+      "colonies": 4,
+      "physical_components": [
+        175,
+        77,
+        76,
+        76,
+        20,
+        5
+      ],
+      "small_fragment_fraction": 0.05827505827505827,
+      "tiny_fragment_fraction": 0.011655011655011656,
+      "balance_error": 1.0852545528905466e-09,
+      "seconds": 6.807856100000208
+    },
+    {
+      "seed": 5,
+      "passed": false,
+      "birth_sizes": [
+        100,
+        86
+      ],
+      "living_cells": 409,
+      "colonies": 3,
+      "physical_components": [
+        215,
+        95,
+        45,
+        4,
+        31,
+        6,
+        9,
+        2,
+        2
+      ],
+      "small_fragment_fraction": 0.24205378973105135,
+      "tiny_fragment_fraction": 0.034229828850855744,
+      "balance_error": 5.998117558192462e-10,
+      "seconds": 7.072906599991256
+    },
+    {
+      "seed": 6,
+      "passed": true,
+      "birth_sizes": [
+        204
+      ],
+      "living_cells": 362,
+      "colonies": 2,
+      "physical_components": [
+        362
+      ],
+      "small_fragment_fraction": 0,
+      "tiny_fragment_fraction": 0.0,
+      "balance_error": 1.7421584175281168e-09,
+      "seconds": 7.120590500009712
+    },
+    {
+      "seed": 7,
+      "passed": true,
+      "birth_sizes": [
+        92,
+        75
+      ],
+      "living_cells": 484,
+      "colonies": 3,
+      "physical_components": [
+        449,
+        33,
+        2
+      ],
+      "small_fragment_fraction": 0.07231404958677685,
+      "tiny_fragment_fraction": 0.004132231404958678,
+      "balance_error": 1.1302745406283066e-09,
+      "seconds": 8.182421099976636
+    },
+    {
+      "seed": 8,
+      "passed": true,
+      "birth_sizes": [
+        72,
+        56,
+        54
+      ],
+      "living_cells": 420,
+      "colonies": 4,
+      "physical_components": [
+        214,
+        96,
+        60,
+        46,
+        2,
+        2
+      ],
+      "small_fragment_fraction": 0.11904761904761904,
+      "tiny_fragment_fraction": 0.009523809523809525,
+      "balance_error": 1.4397087966244726e-09,
+      "seconds": 6.954472799989162
+    },
+    {
+      "seed": 9,
+      "passed": true,
+      "birth_sizes": [
+        79,
+        106
+      ],
+      "living_cells": 424,
+      "colonies": 3,
+      "physical_components": [
+        237,
+        113,
+        61,
+        6,
+        7
+      ],
+      "small_fragment_fraction": 0.030660377358490566,
+      "tiny_fragment_fraction": 0.030660377358490566,
+      "balance_error": 1.138566574354627e-09,
+      "seconds": 7.469888299994636
+    }
+  ],
+  "local_mechanism_tests": "passed",
+  "repeat_and_exact_resume": "passed",
+  "extinction_only_restart": "passed",
+  "python_regression_tests": 53,
+  "date": "2026-10-14",
+  "native_v6_compatibility_max_error": 0,
+  "rendered_views": 19
+}
