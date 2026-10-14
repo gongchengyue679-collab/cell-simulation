@@ -58,3 +58,7 @@ python tools/verify_native_v8.py --checks
 模型单位未经真实生物数据标定。出芽验收不等于长期进化、真实器官或完整双网络损伤验收。实时窗口性能也不能由离线绘图耗时直接推算。
 
 详见 [V8 说明](docs/V8.md)、[验收摘要](docs/verification/V8.json)与[整理说明](docs/PACKAGE.md)。
+
+## 开源许可证
+
+本项目采用 [MIT 许可证](LICENSE)，版权署名为 `gongchengyue679-collab`。允许使用、修改、再发布和商用；复制或分发代码时须保留版权与许可证声明。软件按原样提供，不作保证。

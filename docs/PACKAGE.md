@@ -12,4 +12,4 @@
 
 `docs/V8.md` 记录的是原项目的首轮验证，包括原 Python 53 项回归与旧 V6 成品对照；精简包未收录这些旧依赖，不能把历史通过结果当作它们已在精简包再次执行。
 
-EXE 单独放在原项目 `output/github-release-v8/`，供 GitHub Release 发布。本包未决定开源许可证；若公开，应由项目所有者决定是否及如何授权他人使用源码。
+EXE 单独放在原项目 `output/github-release-v8/`，供 GitHub Release 发布。项目所有者已选择 MIT 许可证，见仓库根目录 `LICENSE`。源码与当前 V8 程序按该许可证公开发布。
